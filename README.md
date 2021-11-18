@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Gxno
-- 👀 I’m interested in ... SHIT
+👋
